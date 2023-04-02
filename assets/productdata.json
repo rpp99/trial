@@ -3,14 +3,14 @@
             "pId":101,
             "pName":"Samsung Mobile S9",
             "pPrice":19500,
-            "pImage":"assets/products/p1.jpg",
+            "pImage":"assets/products/team1.jpg",
             "pDate":"2022/02/21"
           },
           {
             "pId":102,
             "pName":"Samsung Mobile S8",
             "pPrice":17500,
-            "pImage":"assets/products/p2.jpg",
+            "pImage":"assets/products/team2.jpg",
             "pDate":"2022/05/12"
           },
           {
