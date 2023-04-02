@@ -1,0 +1,37 @@
+[
+         {
+            "pId":101,
+            "pName":"Samsung Mobile S9",
+            "pPrice":19500,
+            "pImage":"assets/products/p1.jpg",
+            "pDate":"2022/02/21"
+          },
+          {
+            "pId":102,
+            "pName":"Samsung Mobile S8",
+            "pPrice":17500,
+            "pImage":"assets/products/p2.jpg",
+            "pDate":"2022/05/12"
+          },
+          {
+            "pId":103,
+            "pName":"Samsung Mobile S7",
+            "pPrice":16500,
+            "pImage":"assets/products/p1.jpg",
+            "pDate":"2021/09/25"
+          },
+          {
+            "pId":104,
+            "pName":"Samsung Mobile S11",
+            "pPrice":22500,
+            "pImage":"assets/products/p1.jpg",
+            "pDate":"2022/09/11"
+          },
+          {
+            "pId":5,
+            "pName":"Samsung Mobile S11",
+            "pPrice":22500,
+            "pImage":"assets/products/p1.jpg",
+            "pDate":"2022/09/11"
+          }
+]
